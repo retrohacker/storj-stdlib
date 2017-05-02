@@ -1,5 +1,7 @@
 storj/lib
 =========
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/retrohacker/storj-stdlib.svg)](https://greenkeeper.io/)
 _stdlib service_
 
 ![storj-stdlib](http://i.imgur.com/yVPR6Bi.png)
